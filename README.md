@@ -48,7 +48,7 @@ Clone the repository to your local machine using the following command:
  Navigate to the project directory:
 
 ```bash
-  cd Currency-Converter
+  cd Currency-Convertor
 ```
  Install the required dependencies:
 ```bash
