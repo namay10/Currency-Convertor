@@ -5,7 +5,7 @@ The React Currency Converter is a web application that enables users to perform 
 
 ## Screenshots
 
-![App Screenshot](src/assets/WhatsApp Image 2023-11-30 at 14.59.22_86eac5ab.jpg)
+![App Screenshot](https://github.com/namay10/Currency-Convertor/blob/02a835a21e7e8e5e655f490f5fc05708e1dd70cd/src/assets/WhatsApp%20Image%202023-11-30%20at%2014.59.22_86eac5ab.jpg)
 
 
 ## API Reference
