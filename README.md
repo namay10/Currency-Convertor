@@ -7,7 +7,24 @@ The React Currency Converter is a web application that enables users to perform 
 
 ![App Screenshot](https://github.com/namay10/Currency-Convertor/blob/02a835a21e7e8e5e655f490f5fc05708e1dd70cd/src/assets/WhatsApp%20Image%202023-11-30%20at%2014.59.22_86eac5ab.jpg)
 
+## Features
 
+- Choose the currency to convert from a drop-down list.
+- Select the currency to convert to from another drop-down list.
+- Input the amount to be converted.
+- Fetch the current exchange rate and get the converted amount.
+
+
+
+
+## Technologies Used
+- React: JavaScript library for building user interfaces.
+- Vite: USed Vite to build the react app.
+- Tailwind Css: CSS framework for responsive and visually appealing designs.
+- React Hooks
+- API
+
+  
 ## API Reference
 
 #### Get all items
